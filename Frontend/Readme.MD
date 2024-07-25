@@ -1,0 +1,1 @@
+This application shall be built with angular, it shall hold a website which does model operations.
